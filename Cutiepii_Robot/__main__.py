@@ -139,7 +139,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🚑 Support",
-                             url=f"https://telegram.dog/{SUPPORT_CHAT}"),
+                             url=f"https://telegram.dog/SENKUCHAT"),
         InlineKeyboardButton(text="📢 Updates",
                              url="https://telegram.dog/Black_Knights_Union")
     ],
